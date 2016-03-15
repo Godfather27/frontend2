@@ -1,0 +1,1 @@
+/Users/Seb/Sites/Ember/my-first-ember-app/tmp/funnel-input_base_path-NOACxSwG.tmp/0/resolver.js

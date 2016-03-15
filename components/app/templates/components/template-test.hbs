@@ -1,0 +1,10 @@
+{{yield}}
+<h3 style="color:#568EC5;">{{student.name}}</h3>
+<p>Sex: {{student.gender}}</p>
+<h4>Hobby:</h4>
+<p>{{student.description}}</p>
+<img style="width:250px;" src="{{student.picture}}" alt="{{student.name}}"><br>
+
+<button {{action 'poke' student.name}}>
+  Poke {{student.name}}
+</button>

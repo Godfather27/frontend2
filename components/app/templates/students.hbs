@@ -1,0 +1,8 @@
+{{outlet}}
+
+<h2>All the crazy students</h2>
+<div class="students">
+  {{#each model as |astudent|}}
+    {{template-test student=astudent}}
+  {{/each}}
+</div>

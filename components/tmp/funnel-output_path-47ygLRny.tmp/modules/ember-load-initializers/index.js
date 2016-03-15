@@ -1,0 +1,1 @@
+/Users/Seb/Sites/Ember/my-first-ember-app/tmp/funnel-input_base_path-fhurai35.tmp/0/index.js

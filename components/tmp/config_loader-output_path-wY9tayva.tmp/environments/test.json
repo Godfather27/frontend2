@@ -1,0 +1,1 @@
+{"modulePrefix":"my-first-ember-app","environment":"test","baseURL":"/","locationType":"none","EmberENV":{"FEATURES":{}},"APP":{"LOG_ACTIVE_GENERATION":false,"LOG_VIEW_LOOKUPS":false,"rootElement":"#ember-testing","name":"my-first-ember-app","version":"0.0.0+cd1d6653"},"exportApplicationGlobal":true}
