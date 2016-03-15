@@ -2,10 +2,11 @@
 
 <h2>All the crazy students</h2>
 {{#each model as |student|}}
-<div class="catbox">
-  <h3>Name: {{student.name}}</h3>
+<div class="student">
+  <h3 style="color:#568EC5;">{{student.name}}</h3>
   <p>Sex: {{student.gender}}</p>
-  <p>Hobby: {{student.description}}</p>
+  <h4>Hobby:</h4>
+  <p>{{student.description}}</p>
   <img style="width:250px;" src="{{student.picture}}" alt="{{student.name}}">
  </div>
 {{/each}}
