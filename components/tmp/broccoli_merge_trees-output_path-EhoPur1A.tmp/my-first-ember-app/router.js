@@ -1,1 +1,0 @@
-/Users/Seb/Sites/Ember/my-first-ember-app/tmp/broccoli_merge_trees-input_base_path-AYlkxQJH.tmp/1/my-first-ember-app/router.js

@@ -1,1 +1,0 @@
-/Users/Seb/Sites/Ember/my-first-ember-app/bower_components/ember-cli-test-loader/test-loader.js

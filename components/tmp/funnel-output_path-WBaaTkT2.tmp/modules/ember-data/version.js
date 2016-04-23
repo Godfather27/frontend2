@@ -1,1 +1,0 @@
-/Users/Seb/Sites/Ember/my-first-ember-app/tmp/creator-output_path-s8iUF4ux.tmp/version.js

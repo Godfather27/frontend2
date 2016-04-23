@@ -1,1 +1,0 @@
-/Users/Seb/Sites/Ember/my-first-ember-app/tmp/broccoli_merge_trees-input_base_path-taKdrJ2Q.tmp/1/my-first-ember-app/tests/resolver.jshint.js
